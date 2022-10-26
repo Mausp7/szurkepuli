@@ -1,6 +1,7 @@
 import Grid from "@mui/material/Grid";
 
 import Header from "../components/Header";
+import InfoBoard from "../components/InfoBoard";
 import About from "../components/About";
 import Services from "../components/Services";
 import Gallery from "../components/Gallery";
@@ -13,6 +14,7 @@ const Home = () => {
 	return (
 		<>
 			<Header />
+			<InfoBoard />
 			<About />
 			<Services />
 			<Gallery />

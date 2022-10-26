@@ -25,6 +25,7 @@ const SelectLang = ({ languages, setMenuOn }: SelectLangProps) => {
 
 	const langChange = (e: { target: { value: string } }) => {
 		i18next.changeLanguage(e.target.value);
+		sessionStorage.removeItem("infoClosed");
 		setLang(e.target.value);
 		setMenuOn(false);
 	};

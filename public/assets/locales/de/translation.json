@@ -66,6 +66,11 @@
 	"impressum": {
 		"title": "Impressum",
 		"content": "A SZOLGÁLTATÓT A NYILVÁNTARTÁSBA BEJEGYZŐ BÍRÓSÁG ÉS A SZOLGÁLTATÓ NYILVÁNTARTÁSBA VÉTELI SZÁMA: GYŐRI TÖRVÉNYSZÉK CÉGBÍRÓSÁGA CG.08-09-010521 \n A SZOLGÁLTATÓ TEVÉKENYSÉGÉNEK GYAKORLÁSÁT A MAGYAR ÁLLATORVOSI KAMARA GYŐR-MOSON-SOPRON MEGYEI SZERVEZETE (H-9028. GYŐR, RÉGI VESZPRÉMI ÚT 10.) ENGEDÉLYEZTE. PRAXIS ENGEDÉLY SZÁMA: 0877-PE/MÁOK. \n A SZOLGÁLTATÓ A MAGYAR ÁLLATORVOSI KAMARA TAGJA. \n A SZOLGÁLTATÓ ADÓSZÁMA: 12873580-2-08 \n A TÁRHELYET A WEBTAR.HU (9200, MOSONMAGYARÓVÁR, SZENT ISTVÁN KIRÁLY ÚT 60. TEL.: 06/96/566-095, E-MAIL: INFO@WEBTAR.HU) BIZTOSÍTOTTA.",
-		"back": "Zuröck"
+		"back": "Zurück"
+	},
+	"info": {
+		"title": "Achtung!",
+		"content": "Das Veterinärmedizinisches Zentrum wird ab 27. Dezember 2022. bis 7. Januar 2023. geschlossen. \n Wir bitten um Entschuldigung für die Unannehmlichkeit.",
+		"close": "Schliessen"
 	}
 }
